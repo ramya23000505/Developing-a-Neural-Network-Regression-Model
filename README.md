@@ -7,7 +7,7 @@ To develop a neural network regression model for the given dataset.
 Explain the problem statement
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1171" height="723" alt="image" src="https://github.com/user-attachments/assets/604fec6d-ccb9-486e-bdec-bd63746efdbb" />
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -86,9 +86,11 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ### Dataset Information
 <img width="377" height="264" alt="image" src="https://github.com/user-attachments/assets/65c9da6f-bf17-4bd6-9989-a0d0c3e68951" />
+<img width="281" height="503" alt="image" src="https://github.com/user-attachments/assets/7fad9c7c-7b07-4cf4-80be-e22f0f0d8b5c" />
 
 
 ### OUTPUT
+<img width="493" height="240" alt="image" src="https://github.com/user-attachments/assets/9b9239d6-7c82-44f2-9558-ec0985665cc5" />
 
 ### Training Loss Vs Iteration Plot
 <img width="795" height="596" alt="image" src="https://github.com/user-attachments/assets/80a2aba9-c6de-4eaf-9d33-cfeffb3fd432" />
